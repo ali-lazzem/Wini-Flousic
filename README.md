@@ -48,8 +48,7 @@ wini-flousic/
 │   ├── transactions/         # Transaction CRUD + dashboard API
 │   ├── predictions/          # ML forecasts, goals, AI insights
 │   ├── financial_analytics/  # Health score, heatmap, trends
-│   ├── backend/              # Settings, URLs
-│   └── manage.py
+│   ├── backend/              # Settings, URLs  
 ├── frontend/                 # React + Vite frontend
 │   ├── src/
 │   │   ├── components/       # Reusable UI parts
@@ -62,6 +61,7 @@ wini-flousic/
 ├── .gitignore
 ├── README.md
 └── start.bat                 # Windows launcher (optional)
+└── manage.py
 ```
 
 ---
