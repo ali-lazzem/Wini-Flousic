@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gray-50 text-gray-900 dark:bg-dark-bg dark:text-gray-100;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  * {
+    transition: background-color 0.2s, border-color 0.2s;
+  }
+}
+
+@layer components {
+  .card {
+    @apply bg-white dark:bg-dark-card rounded-xl shadow-md border border-gray-200 dark:border-dark-border;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  .card-hover {
+    @apply hover:shadow-lg hover:scale-[1.01] dark:hover:bg-gray-800;
+  }
+  .neon-text {
+    @apply text-green-600 dark:text-neon-green;
+  }
+}

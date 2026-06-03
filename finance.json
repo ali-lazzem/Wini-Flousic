@@ -1,0 +1,708 @@
+{
+  "accounts": {
+    "bank": 840.0,
+    "cash": 133.3
+  },
+  "transactions": [
+    {
+      "account": "cash",
+      "amount": -0.5,
+      "description": "metro expense",
+      "balance": 84.35,
+      "timestamp": "2026-02-08T19:04:02.908290"
+    },
+    {
+      "account": "cash",
+      "amount": -6.5,
+      "description": "louage  expense",
+      "balance": 77.85,
+      "timestamp": "2026-02-08T19:04:28.005629"
+    },
+    {
+      "account": "cash",
+      "amount": -2.5,
+      "description": "the expense",
+      "balance": 75.35,
+      "timestamp": "2026-02-08T19:04:34.415200"
+    },
+    {
+      "account": "cash",
+      "amount": -18.95,
+      "description": "da3ou  expense",
+      "balance": 56.4,
+      "timestamp": "2026-02-08T19:07:18.518079"
+    },
+    {
+      "account": "cash",
+      "amount": 60.0,
+      "description": "masrouf",
+      "balance": 116.4,
+      "timestamp": "2026-02-08T19:07:41.985263"
+    },
+    {
+      "account": "cash",
+      "amount": 12.0,
+      "description": "rja3",
+      "balance": 128.4,
+      "timestamp": "2026-02-18T00:03:07.482670"
+    },
+    {
+      "account": "cash",
+      "amount": -3.3,
+      "description": "malfouf expense",
+      "balance": 125.1,
+      "timestamp": "2026-02-18T00:03:29.595543"
+    },
+    {
+      "account": "cash",
+      "amount": -6.0,
+      "description": "malfouf expense",
+      "balance": 119.1,
+      "timestamp": "2026-02-18T00:03:49.520782"
+    },
+    {
+      "account": "cash",
+      "amount": -1.2,
+      "description": "the expense",
+      "balance": 117.9,
+      "timestamp": "2026-02-18T00:04:01.872958"
+    },
+    {
+      "account": "cash",
+      "amount": -2.2,
+      "description": "the expense",
+      "balance": 115.7,
+      "timestamp": "2026-02-18T00:04:10.857207"
+    },
+    {
+      "account": "cash",
+      "amount": -1.5,
+      "description": "train expense",
+      "balance": 114.2,
+      "timestamp": "2026-02-18T00:04:22.661392"
+    },
+    {
+      "account": "cash",
+      "amount": -0.3,
+      "description": "baguette expense",
+      "balance": 113.9,
+      "timestamp": "2026-02-18T00:04:33.263186"
+    },
+    {
+      "account": "cash",
+      "amount": -2.5,
+      "description": "the expense",
+      "balance": 111.4,
+      "timestamp": "2026-02-18T00:04:43.976424"
+    },
+    {
+      "account": "cash",
+      "amount": -1.2,
+      "description": "the expense",
+      "balance": 110.2,
+      "timestamp": "2026-02-18T00:04:50.185252"
+    },
+    {
+      "account": "cash",
+      "amount": -3.5,
+      "description": "direct expense",
+      "balance": 106.7,
+      "timestamp": "2026-02-18T00:05:01.541660"
+    },
+    {
+      "account": "cash",
+      "amount": -0.75,
+      "description": "baguette expense",
+      "balance": 105.95,
+      "timestamp": "2026-02-18T00:07:38.286403"
+    },
+    {
+      "account": "cash",
+      "amount": -2.5,
+      "description": "the expense",
+      "balance": 103.45,
+      "timestamp": "2026-02-19T22:18:03.597925"
+    },
+    {
+      "account": "cash",
+      "amount": 40.0,
+      "description": "masrouf",
+      "balance": 143.45,
+      "timestamp": "2026-02-22T16:04:58.249134"
+    },
+    {
+      "account": "cash",
+      "amount": -1.0,
+      "description": "zare3a expense",
+      "balance": 142.45,
+      "timestamp": "2026-02-22T20:34:56.472053"
+    },
+    {
+      "account": "cash",
+      "amount": 50.0,
+      "description": "masrouf",
+      "balance": 192.45,
+      "timestamp": "2026-03-01T17:02:47.345858"
+    },
+    {
+      "account": "cash",
+      "amount": -1.5,
+      "description": "the expense",
+      "balance": 190.95,
+      "timestamp": "2026-03-01T17:28:48.769540"
+    },
+    {
+      "account": "cash",
+      "amount": -3.0,
+      "description": "direct expense",
+      "balance": 187.95,
+      "timestamp": "2026-03-01T17:29:00.239103"
+    },
+    {
+      "account": "cash",
+      "amount": -1.0,
+      "description": "baguette expense",
+      "balance": 186.95,
+      "timestamp": "2026-03-01T17:29:16.416526"
+    },
+    {
+      "account": "cash",
+      "amount": -3.0,
+      "description": "direct expense",
+      "balance": 183.95,
+      "timestamp": "2026-03-01T17:29:33.665110"
+    },
+    {
+      "account": "cash",
+      "amount": -10.0,
+      "description": "carhba expense",
+      "balance": 173.95,
+      "timestamp": "2026-03-01T17:29:46.116140"
+    },
+    {
+      "account": "cash",
+      "amount": -5.0,
+      "description": "carhba expense",
+      "balance": 168.95,
+      "timestamp": "2026-03-01T19:23:38.127077"
+    },
+    {
+      "account": "cash",
+      "amount": 50.0,
+      "description": "masrouf",
+      "balance": 218.95,
+      "timestamp": "2026-03-31T23:04:26.986785"
+    },
+    {
+      "account": "cash",
+      "amount": -47.6,
+      "description": "masarif mars expense",
+      "balance": 171.35,
+      "timestamp": "2026-03-31T23:06:29.070613"
+    },
+    {
+      "account": "cash",
+      "amount": -1.5,
+      "description": "the expense",
+      "balance": 169.85,
+      "timestamp": "2026-04-04T00:36:22.726385"
+    },
+    {
+      "account": "cash",
+      "amount": -1.5,
+      "description": "the expense",
+      "balance": 168.35,
+      "timestamp": "2026-04-04T00:36:29.592390"
+    },
+    {
+      "account": "cash",
+      "amount": -1.0,
+      "description": "5 ticket resto expense",
+      "balance": 167.35,
+      "timestamp": "2026-04-04T00:36:55.039231"
+    },
+    {
+      "account": "cash",
+      "amount": -1.0,
+      "description": "zare3a expense",
+      "balance": 166.35,
+      "timestamp": "2026-04-04T00:37:01.834911"
+    },
+    {
+      "account": "cash",
+      "amount": -0.4,
+      "description": "baguette expense",
+      "balance": 165.95,
+      "timestamp": "2026-04-04T00:37:25.812889"
+    },
+    {
+      "account": "cash",
+      "amount": -22.5,
+      "description": "date expense",
+      "balance": 143.45,
+      "timestamp": "2026-04-15T18:48:15.169900"
+    },
+    {
+      "account": "cash",
+      "amount": -3.5,
+      "description": "mlewi expense",
+      "balance": 139.95,
+      "timestamp": "2026-04-15T18:48:25.966172"
+    },
+    {
+      "account": "cash",
+      "amount": -1.5,
+      "description": "the expense",
+      "balance": 138.45,
+      "timestamp": "2026-04-15T18:48:38.153646"
+    },
+    {
+      "account": "cash",
+      "amount": -3.0,
+      "description": "cofe expense",
+      "balance": 135.45,
+      "timestamp": "2026-04-15T18:48:49.865355"
+    },
+    {
+      "account": "cash",
+      "amount": -1.0,
+      "description": "5 ticket resto expense",
+      "balance": 134.45,
+      "timestamp": "2026-04-15T18:48:58.729759"
+    },
+    {
+      "account": "cash",
+      "amount": -1.0,
+      "description": "5 ticket resto expense",
+      "balance": 133.45,
+      "timestamp": "2026-04-15T18:49:07.297898"
+    },
+    {
+      "account": "cash",
+      "amount": -3.0,
+      "description": "cofe expense",
+      "balance": 130.45,
+      "timestamp": "2026-04-15T18:49:14.875221"
+    },
+    {
+      "account": "cash",
+      "amount": -1.5,
+      "description": "eggs expense",
+      "balance": 128.95,
+      "timestamp": "2026-04-15T18:49:39.354531"
+    },
+    {
+      "account": "cash",
+      "amount": -15.6,
+      "description": "transport expense",
+      "balance": 113.35,
+      "timestamp": "2026-04-15T18:50:05.122375"
+    },
+    {
+      "account": "cash",
+      "amount": 56.5,
+      "description": "masrouf",
+      "balance": 169.85,
+      "timestamp": "2026-04-15T18:50:19.801980"
+    },
+    {
+      "account": "cash",
+      "amount": -3.5,
+      "description": "mlewi expense",
+      "balance": 166.35,
+      "timestamp": "2026-04-15T18:50:46.874123"
+    },
+    {
+      "account": "cash",
+      "amount": -0.6,
+      "description": "baguette expense",
+      "balance": 165.75,
+      "timestamp": "2026-04-15T18:50:54.337786"
+    },
+    {
+      "account": "cash",
+      "amount": -1.3,
+      "description": "eggs expense",
+      "balance": 164.45,
+      "timestamp": "2026-04-15T18:51:05.425167"
+    },
+    {
+      "account": "cash",
+      "amount": -15.0,
+      "description": "hacathon etc",
+      "balance": 149.45,
+      "timestamp": "2026-04-15T18:51:28.633779"
+    },
+    {
+      "account": "cash",
+      "amount": -0.3,
+      "description": "baguette expense",
+      "balance": 149.15,
+      "timestamp": "2026-04-15T18:51:39.330980"
+    },
+    {
+      "account": "cash",
+      "amount": -1.0,
+      "description": "5 ticket resto expense",
+      "balance": 148.15,
+      "timestamp": "2026-04-15T18:51:50.177733"
+    },
+    {
+      "account": "cash",
+      "amount": -1.0,
+      "description": "fricace expense",
+      "balance": 147.15,
+      "timestamp": "2026-04-15T18:52:01.186996"
+    },
+    {
+      "account": "cash",
+      "amount": -10.0,
+      "description": "makloub expense",
+      "balance": 137.15,
+      "timestamp": "2026-04-15T18:52:09.441190"
+    },
+    {
+      "account": "cash",
+      "amount": 50.0,
+      "description": "masrouf",
+      "balance": 187.15,
+      "timestamp": "2026-04-21T00:57:27.541589"
+    },
+    {
+      "account": "cash",
+      "amount": -3.0,
+      "description": "cofe expense",
+      "balance": 184.15,
+      "timestamp": "2026-04-21T00:58:00.732039"
+    },
+    {
+      "account": "cash",
+      "amount": -7.85,
+      "description": "transport expense",
+      "balance": 176.3,
+      "timestamp": "2026-04-21T00:58:23.059891"
+    },
+    {
+      "account": "cash",
+      "amount": -3.0,
+      "description": "cofe expense",
+      "balance": 173.3,
+      "timestamp": "2026-04-21T00:59:11.986967"
+    },
+    {
+      "account": "cash",
+      "amount": -4.5,
+      "description": "stika me expense",
+      "balance": 168.8,
+      "timestamp": "2026-04-21T01:00:10.586110"
+    },
+    {
+      "account": "cash",
+      "amount": -17.9,
+      "description": "mena3rach expense",
+      "balance": 150.9,
+      "timestamp": "2026-04-21T01:02:09.788124"
+    },
+    {
+      "account": "cash",
+      "amount": -1.0,
+      "description": "5 ticket resto expense",
+      "balance": 149.9,
+      "timestamp": "2026-04-21T20:43:17.740391"
+    },
+    {
+      "account": "cash",
+      "amount": -1.0,
+      "description": "me expense",
+      "balance": 148.9,
+      "timestamp": "2026-04-21T20:43:28.717990"
+    },
+    {
+      "account": "cash",
+      "amount": -1.5,
+      "description": "the expense",
+      "balance": 147.4,
+      "timestamp": "2026-04-21T20:43:35.819270"
+    },
+    {
+      "account": "cash",
+      "amount": -3.0,
+      "description": "the expense",
+      "balance": 144.4,
+      "timestamp": "2026-04-26T14:22:03.403086"
+    },
+    {
+      "account": "cash",
+      "amount": -3.0,
+      "description": "the expense",
+      "balance": 141.4,
+      "timestamp": "2026-04-26T14:22:08.248472"
+    },
+    {
+      "account": "cash",
+      "amount": -1.0,
+      "description": "me expense",
+      "balance": 140.4,
+      "timestamp": "2026-04-26T14:22:21.347408"
+    },
+    {
+      "account": "cash",
+      "amount": -1.0,
+      "description": "me expense",
+      "balance": 139.4,
+      "timestamp": "2026-04-26T14:22:26.431963"
+    },
+    {
+      "account": "cash",
+      "amount": 47.8,
+      "description": "masrouf",
+      "balance": 187.2,
+      "timestamp": "2026-04-29T14:26:03.074121"
+    },
+    {
+      "account": "cash",
+      "amount": -7.85,
+      "description": "transport expense",
+      "balance": 179.35,
+      "timestamp": "2026-04-29T14:31:30.981639"
+    },
+    {
+      "account": "cash",
+      "amount": -1.5,
+      "description": "the expense",
+      "balance": 177.85,
+      "timestamp": "2026-04-29T14:31:47.910488"
+    },
+    {
+      "account": "cash",
+      "amount": -3.0,
+      "description": "cofe expense",
+      "balance": 174.85,
+      "timestamp": "2026-04-29T14:32:01.308415"
+    },
+    {
+      "account": "cash",
+      "amount": -0.45,
+      "description": "jbin expense",
+      "balance": 174.4,
+      "timestamp": "2026-04-29T14:32:45.594610"
+    },
+    {
+      "account": "cash",
+      "amount": -1.0,
+      "description": "5 ticket resto expense",
+      "balance": 173.4,
+      "timestamp": "2026-04-29T14:33:07.263698"
+    },
+    {
+      "account": "cash",
+      "amount": 48.0,
+      "description": "masrouf",
+      "balance": 221.4,
+      "timestamp": "2026-05-06T23:20:52.883046"
+    },
+    {
+      "account": "cash",
+      "amount": -6.85,
+      "description": "transport expense",
+      "balance": 214.55,
+      "timestamp": "2026-05-06T23:21:09.837797"
+    },
+    {
+      "account": "cash",
+      "amount": -4.5,
+      "description": "malfouf expense",
+      "balance": 210.05,
+      "timestamp": "2026-05-06T23:21:35.272016"
+    },
+    {
+      "account": "cash",
+      "amount": -2.5,
+      "description": "me expense",
+      "balance": 207.55,
+      "timestamp": "2026-05-06T23:21:47.887054"
+    },
+    {
+      "account": "cash",
+      "amount": -3.0,
+      "description": "direct expense",
+      "balance": 204.55,
+      "timestamp": "2026-05-06T23:21:58.808075"
+    },
+    {
+      "account": "cash",
+      "amount": -3.0,
+      "description": "direct expense",
+      "balance": 201.55,
+      "timestamp": "2026-05-06T23:22:05.379088"
+    },
+    {
+      "account": "cash",
+      "amount": -6.8,
+      "description": "malfouf expense",
+      "balance": 194.75,
+      "timestamp": "2026-05-06T23:22:26.759123"
+    },
+    {
+      "account": "cash",
+      "amount": -3.0,
+      "description": "frite expense",
+      "balance": 191.75,
+      "timestamp": "2026-05-06T23:23:02.415957"
+    },
+    {
+      "account": "cash",
+      "amount": -2.5,
+      "description": "gazouza expense",
+      "balance": 189.25,
+      "timestamp": "2026-05-06T23:23:40.020686"
+    },
+    {
+      "account": "cash",
+      "amount": 60.0,
+      "description": "masrouf",
+      "balance": 249.25,
+      "timestamp": "2026-05-14T20:57:01.568937"
+    },
+    {
+      "account": "cash",
+      "amount": -2.2,
+      "description": "the expense",
+      "balance": 247.05,
+      "timestamp": "2026-05-14T20:57:14.656185"
+    },
+    {
+      "account": "cash",
+      "amount": -2.2,
+      "description": "the expense",
+      "balance": 244.85,
+      "timestamp": "2026-05-14T20:57:23.039173"
+    },
+    {
+      "account": "cash",
+      "amount": -1.0,
+      "description": "5 ticket resto expense",
+      "balance": 243.85,
+      "timestamp": "2026-05-14T20:57:30.838102"
+    },
+    {
+      "account": "cash",
+      "amount": -0.9,
+      "description": "baguette expense",
+      "balance": 242.95,
+      "timestamp": "2026-05-14T20:57:43.530739"
+    },
+    {
+      "account": "cash",
+      "amount": -6.95,
+      "description": "date expense",
+      "balance": 236.0,
+      "timestamp": "2026-05-14T20:58:10.283380"
+    },
+    {
+      "account": "cash",
+      "amount": -3.0,
+      "description": "cofe expense",
+      "balance": 233.0,
+      "timestamp": "2026-05-14T20:58:24.391874"
+    },
+    {
+      "account": "cash",
+      "amount": -0.9,
+      "description": "me expense",
+      "balance": 232.1,
+      "timestamp": "2026-05-14T20:58:33.603191"
+    },
+    {
+      "account": "cash",
+      "amount": -0.9,
+      "description": "choklata expense",
+      "balance": 231.2,
+      "timestamp": "2026-05-14T20:58:43.891473"
+    },
+    {
+      "account": "cash",
+      "amount": -3.5,
+      "description": "mlewi expense",
+      "balance": 227.7,
+      "timestamp": "2026-05-14T20:58:53.349048"
+    },
+    {
+      "account": "cash",
+      "amount": -15.4,
+      "description": "the expense",
+      "balance": 212.3,
+      "timestamp": "2026-05-23T01:11:40.965297"
+    },
+    {
+      "account": "cash",
+      "amount": -3.0,
+      "description": "baguette expense",
+      "balance": 209.3,
+      "timestamp": "2026-05-23T01:12:19.626869"
+    },
+    {
+      "account": "cash",
+      "amount": -2.0,
+      "description": "5 ticket resto expense",
+      "balance": 207.3,
+      "timestamp": "2026-05-23T01:12:35.386662"
+    },
+    {
+      "account": "cash",
+      "amount": -6.0,
+      "description": "gazouza expense",
+      "balance": 201.3,
+      "timestamp": "2026-05-23T01:12:45.365866"
+    },
+    {
+      "account": "cash",
+      "amount": -9.0,
+      "description": "makloub expense",
+      "balance": 192.3,
+      "timestamp": "2026-05-23T01:12:53.314629"
+    },
+    {
+      "account": "cash",
+      "amount": -5.0,
+      "description": "mlewi expense",
+      "balance": 187.3,
+      "timestamp": "2026-05-23T01:13:02.434202"
+    },
+    {
+      "account": "cash",
+      "amount": -5.0,
+      "description": "me expense",
+      "balance": 182.3,
+      "timestamp": "2026-05-23T01:13:21.802447"
+    },
+    {
+      "account": "cash",
+      "amount": -5.0,
+      "description": "choklata expense",
+      "balance": 177.3,
+      "timestamp": "2026-05-23T01:13:41.513529"
+    },
+    {
+      "account": "cash",
+      "amount": -9.0,
+      "description": "makloub expense",
+      "balance": 168.3,
+      "timestamp": "2026-05-23T01:15:02.934838"
+    },
+    {
+      "account": "cash",
+      "amount": -5.0,
+      "description": "mlewi expense",
+      "balance": 163.3,
+      "timestamp": "2026-05-23T01:15:12.551236"
+    },
+    {
+      "account": "cash",
+      "amount": -30.0,
+      "description": "da3ou???? expense",
+      "balance": 133.3,
+      "timestamp": "2026-05-23T01:16:06.006563"
+    }
+  ]
+}
