@@ -44,11 +44,11 @@
 ```
 wini-flousic/
 ├── backend/                  # Django project root
-│   ├── core/                 # Custom User model
-│   ├── transactions/         # Transaction CRUD + dashboard API
-│   ├── predictions/          # ML forecasts, goals, AI insights
-│   ├── financial_analytics/  # Health score, heatmap, trends
-│   ├── backend/              # Settings, URLs  
+├── core/                 # Custom User model
+├── transactions/         # Transaction CRUD + dashboard API
+├── predictions/          # ML forecasts, goals, AI insights
+├── financial_analytics/  # Health score, heatmap, trends
+├── backend/              # Settings, URLs  
 ├── frontend/                 # React + Vite frontend
 │   ├── src/
 │   │   ├── components/       # Reusable UI parts
