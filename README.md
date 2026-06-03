@@ -156,34 +156,9 @@ ALLOWED_HOSTS=localhost,127.0.0.1
 
 ---
 
-## 🧪 Importing old data (optional)
-
-If you have `transactions.json` or `finance.json` files (e.g., from previous versions), run:
-
-```bash
-cd backend
-python manage.py import_old_data --username your_username
-```
-
----
-
-## 🔧 Troubleshooting
-
-- **CORS errors**: Ensure `CORS_ALLOWED_ORIGINS` in `settings.py` includes `http://localhost:5173`.
-- **Insufficient funds error**: The backend validates expenses against available cash/bank balance – add income first.
-- **ML predictions require data**: You need at least 3 months of transactions for linear regression to work.
-
----
-
 ## 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first. Please follow existing code style (PEP8 for Python, ESLint for React).
-
----
-
-## 📄 License
-
-MIT
 
 ---
 
